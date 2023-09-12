@@ -1,7 +1,8 @@
-<img width="637" alt="image" src="https://github.com/Ravi-chandera/Licence-plate-detection/assets/110690059/d0048e4a-5c75-48c7-90af-567efddd8c2c"># License plat detection using YOLO
+# License plat detection using YOLO
 Here is the testing video on which i applied above code to check results.
 
 <img width="646" alt="image" src="https://github.com/Ravi-chandera/Licence-plate-detection/assets/110690059/bcfc195e-2424-42a7-9e23-4f5e4f43116e">
+
 not visually appealing video
 
 
